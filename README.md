@@ -2,6 +2,11 @@
 
 BaazarX is a modern **Quick Commerce + E-Commerce web application** designed to deliver products quickly with a smooth online shopping experience. The platform focuses on fast delivery, user-friendly design, and efficient product management.
 
+## 🌐 Live Demo
+
+🔗 **Visit BaazarX:** https://baazarx.netlify.app/
+
+
 ## 🚀 Features
 
 - 🛒 Product browsing with categories
